@@ -1,7 +1,7 @@
 # Server-places-socket :zap:
 
 
-This is a server done with Node.js and I can add socket.io
+This is a server done with Node.js,express and socket.io
 
 You can see the result here:
 [server-places-socket](https://socket-places-server.herokuapp.com/) :computer::computer::computer::computer::computer:
